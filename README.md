@@ -14,8 +14,8 @@
   <a href="mailto:luisantoniojopia@gmail.com"><img src="https://img.shields.io/badge/Gmail-2563EB?logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/luis-antonio-jopia-8b9549389"><img src="https://img.shields.io/badge/LinkedIn-2563EB?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/luisantonioj"><img src="https://img.shields.io/badge/GitHub-2563EB?logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-2563EB?logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-2563EB?logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/luijopia"><img src="https://img.shields.io/badge/Instagram-2563EB?logo=instagram&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-2563EB?logo=vercel&logoColor=white" /></a>
 </p>
 
 ```
