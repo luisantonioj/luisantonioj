@@ -26,7 +26,7 @@ Goal      : Software developer role close to the people who use it
 ```
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luisantonioj&theme=react&hide_border=true" />
+  <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luisantonioj&theme=tokyo-night&hide_border=true" />
 </a>
 
 <h3>My Tech Stack</h3>
