@@ -48,7 +48,7 @@ Goal      : Software developer role close to the people who use it
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
 
-<h5>⚙️ Backend, Databases, and Cloud</h5>
+<h5>Backend, Databases, and Cloud</h5>
 <p>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
