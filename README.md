@@ -20,8 +20,8 @@
 ```
 About     : CS student building full-stack web apps for real communities
 Focus     : Translating operational needs into working systems
-Approach  : End-to-end ownership, from workflow to deployment
-Goal      : Software developer role close to the people who use it
+Exploring : Backend, DevOps and Blockchain
+Thesis    : Blockchain Blood Inventory and Redistribution System
 ```
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
